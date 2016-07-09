@@ -8,24 +8,10 @@
 [![Dependency Status](https://david-dm.org/mgechev/angular2-seed.svg)](https://david-dm.org/mgechev/angular2-seed)
 [![devDependency Status](https://david-dm.org/mgechev/angular2-seed/dev-status.svg)](https://david-dm.org/mgechev/angular2-seed#info=devDependencies)
 
-Provides fast, reliable and extensible starter for the development of Angular 2 projects.
-
-`angular2-seed` provides the following features:
-
-- Allows you to painlessly update the seed tasks of your already existing project.
-- Out of the box ServiceWorkers and AppCache support thanks to the integration with [angular/mobile-toolkit](https://github.com/angular/mobile-toolkit).
-- Ready to go, statically typed build system using gulp for working with TypeScript.
-- Production and development builds.
-- Sample unit tests with Jasmine and Karma including code coverage via [istanbul](https://gotwarlost.github.io/istanbul/).
-- End-to-end tests with Protractor.
-- Development server with Livereload.
-- Following the [best practices](https://angular.io/styleguide).
-- Manager of your type definitions using [typings](https://github.com/typings/typings).
-- Has autoprefixer and css-lint support.
-
+Source for API WEB. [www.apiweb.net](www.apiweb.net)
 # How to start
 
-**Note** that this seed project requires node v4.x.x or higher and npm 2.14.7.
+**Note** that this project requires node v4.x.x or higher and npm 2.14.7.
 
 **Here is how to [speed-up the build on Windows](https://github.com/mgechev/angular2-seed/wiki/Speed-up-the-build-on-Windows)**.
 
@@ -399,55 +385,7 @@ Forks of this project demonstrate how to extend and integrate with other librari
 :---: |:---: |:---: |:---: |:---: |:---: |
 [Yalrafih](https://github.com/Yalrafih) |[blackheart01](https://github.com/blackheart01) |[butterfieldcons](https://github.com/butterfieldcons) |[jgolla](https://github.com/jgolla) |[ultrasonicsoft](https://github.com/ultrasonicsoft) |[amaltsev](https://github.com/amaltsev) |
 
-## Wiki Contributors
-
-Here are all the awesome guys who are helping to make the project's wiki even better!
-
-```
-37  Minko Gechev
-22  Clayton K. N. Passos
-15  Shyam-Chen
-14  Vincent van Proosdij
- 8  Christian Dobert
- 8  Robert van Kints
- 8  matthew harwood
- 6  Ludovic HENIN
- 5  Attila Egyed
- 3  Stefan Schüller
- 3  Patrick Hillert
- 3  Ezequiel Cicala
- 2  Nathan Walker
- 2  Yannick Koehler
- 2  Giovanni Candido da Silva
- 2  Simon Hampton
- 2  Cy Klassen
- 2  Joshua Wiens
- 2  Drake Wilson
- 2  Dinsitro
- 1  zcsongor
- 1  BouncingBit
- 1  Brian Kotek
- 1  Chris Kapilla
- 1  Dang Tung
- 1  Eddie Sun
- 1  Enrico Secondulfo
- 1  Eugene Serkin
- 1  Ishara Samantha
- 1  Myrmex
- 1  Pol Stafford
- 1  Raphael Schmitt
- 1  Sebastian Fuss
- 1  Sebastien de Salvador
- 1  The Ult
- 1  graham
- 1  kiuka
- 1  Ankit Kamboj
-```
-
-# Change Log
-
-You can follow the [Angular 2 change log here](https://github.com/angular/angular/blob/master/CHANGELOG.md).
 
 # License
 
-MIT
+Apache
